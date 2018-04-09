@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/bin/Debug/netcoreapp2.0/Form Submission.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/bin/Debug/netcoreapp2.0/Form Submission.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/bin/Debug/netcoreapp2.0/Form Submission.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/bin/Debug/netcoreapp2.0/Form Submission.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/bin/Debug/netcoreapp2.0/Form Submission.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/obj/Debug/netcoreapp2.0/Form Submission.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/obj/Debug/netcoreapp2.0/Form Submission.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/obj/Debug/netcoreapp2.0/Form Submission.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/obj/Debug/netcoreapp2.0/Form Submission.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Form Submission/obj/Debug/netcoreapp2.0/Form Submission.pdb
